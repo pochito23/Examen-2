@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <Title>
+        emprendimiento
+    </Title>
+</head>
+
+<body style="background-color:rgb(132, 150, 147);">
+    <header>
+        <span><img src = "img/Logo.png" alt="logo de empresa" width="150px" height="150px"></span>
+        <span>
+            <h1>City of barbers</h1>
+        </span>
+        <p><i>Bienvenido al portal de nuestra barberia donde puedes saber mas de nosotros y lo que ofrecemos para ti</p></strong>
+    </header>
+    <main>
+        <nav>
+            <a href="Tarea1.html">Inicio </a>
+            |
+            <a href="servicios.html">Servicios </a>
+            |
+            <a href="contacto.html">Contacto </a>
+            |
+            <a href="about.html">Sobre nosotros </a>
+
+        </nav>
+
+        <section>
+            <h2>Puede visitarnos en nuestras redes sociales o comunicarse atraves de nuestro formulario para que un agente se ponga en contacto con usted</h2>
+            <br><br>
+            <form action="cityofbarbers/contacto/api/contactos" method="post" enctype="multipart/form-data">
+
+                <fieldset>
+                    <legend>Datos personales</legend> 
+                    <label> Nombre </label>
+                    &emsp;
+                    <input type="text" name="nombre" required minlength="6" maxlength="80" placeholder="Ejemplo: Jose ">
+                    <br><br>
+                    <label> Apellido </label>
+                    &emsp;
+                    <input type="text" name="apellido" required minlength="6" maxlength="80" placeholder="Ejemplo: Corea">
+                    <br><br>
+                    <label> email </label>
+                    &emsp;&emsp;
+                    <input type="email" name="email" required minlength="6" maxlength="80" placeholder="Ejemplo: Jose@unah.hn ">
+                    <br><br>
+                    <label> Telefono </label>
+                    &emsp;
+                    <input type="text" name="telefono" required minlength="6" placeholder=" 99999999">
+                    <br><br>
+                    <label> Servicio </label>
+                    &emsp;
+                    <select >
+                        &emsp;
+                        <option>
+                            Elige el tipo de Servicio
+                        </option>
+                        <option>
+                            Corte de pelo
+                        </option>
+                          <option>
+                            Corte de pelo con navaja
+                        </option>
+                          <option>
+                            mascarilla
+                        </option>
+                          <option>
+                            barba
+                        </option>
+                    </select>
+                   <button type="submit">
+                    enviar
+                   </button>
+                </fieldset>
+
+            </form>
+        </section>
+        <br>
+    </main>
+
+    <footer">
+        &emsp;&emsp;&emsp;&emsp;&emsp;
+
+    <a href="instagram.com/cityofbarbers.hn/">
+        <img src="img/ig.png" width="100px" height="100px">
+    </a>
+    &emsp;&emsp;&emsp;&emsp;&emsp;
+     <a href="https://www.tiktok.com/@city.of.barbers?_r=1&_t=ZS-9A6IwFBFtkk">
+        <img src="img/tiktok.png" width="100px" height="100px">
+    </a>
+    <br>
+    &copy CITYOFBARBERS 
+    &copy Jose Ramon Corea Aviles 20231003748
+    </footer>
+</body>
+</html>
