@@ -1,6 +1,0 @@
-.idea/
-*.zip
-*.tgz
-vendor/
-node_modules/
-.env
