@@ -43,7 +43,7 @@ class ProveedorController extends Controller{
     'fecha_registro' => 'fecha de registro',
 ];
 
-    public function indice()
+    public function index()
 {
     $proveedores = Proveedor::orderBy('id', 'desc')->paginate(10);
 
