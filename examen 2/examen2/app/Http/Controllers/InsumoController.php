@@ -72,12 +72,12 @@ class InsumoController extends Controller
             ->paginate(10)
             ->withQueryString();
 
-        return view('insumos.index', compact('insumos', 'buscar'));
+        return view('insumos.indice', compact('insumos', 'buscar'));
     }
 
     public function create()
     {
-        return view('insumos.create');
+        return view('insumos.crear');
     }
 
     public function store(Request $request)
@@ -95,7 +95,7 @@ class InsumoController extends Controller
 
     public function edit(Insumo $insumo)
     {
-        return view('insumos.edit', compact('insumo'));
+        return view('insumos.editar', compact('insumo'));
     }
 
     public function update(Request $request, Insumo $insumo)

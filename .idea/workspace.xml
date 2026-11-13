@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11659f94-0e20-4ae9-97ae-4c3bab8b61d3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/examen2/composer.json</pharConfigPath>
+    <execution>
+      <execution>
+        <execution>
+          <execution>
+            <execution>
+              <execution>
+                <execution>
+                  <execution />
+                </execution>
+              </execution>
+            </execution>
+          </execution>
+        </execution>
+      </execution>
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="PHP File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.107833086467342" />
+      <entry key="MS500" value="2.797475994847365" />
+      <entry key="S2" value="7.582188203797015" />
+      <entry key="S5" value="12.891267690996498" />
+      <entry key="S10" value="18.809839981547018" />
+      <entry key="S30" value="29.980637713807702" />
+      <entry key="S60" value="36.03534662342665" />
+      <entry key="M2" value="40.36061333564902" />
+      <entry key="M5" value="44.29446234155213" />
+      <entry key="M10" value="48.783552376495315" />
+      <entry key="M15" value="53.17762261690101" />
+      <entry key="M30" value="62.50086676987504" />
+      <entry key="H1" value="76.41033772271884" />
+      <entry key="H2" value="127.47083877712231" />
+      <entry key="H4" value="245.30894085406268" />
+      <entry key="D1" value="579.4858887859069" />
+      <entry key="W1" value="693.2974338487066" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="5.804E-320" />
+      <entry key="MS500" value="1.4214842093092391E-64" />
+      <entry key="S2" value="1.0919066473505335E-16" />
+      <entry key="S5" value="4.12357790590912E-7" />
+      <entry key="S10" value="6.421593797194487E-4" />
+      <entry key="S30" value="0.09046635103490014" />
+      <entry key="S60" value="0.4194919407867956" />
+      <entry key="M2" value="1.2699343161963077" />
+      <entry key="M5" value="3.152246560511159" />
+      <entry key="M10" value="4.962494569064948" />
+      <entry key="M15" value="6.22801310042576" />
+      <entry key="M30" value="8.490815031497162" />
+      <entry key="H1" value="10.539296910306193" />
+      <entry key="H2" value="13.104707092423439" />
+      <entry key="H4" value="16.638052493852197" />
+      <entry key="D1" value="23.65636928377981" />
+      <entry key="W1" value="25.636723038200422" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0667575061049008" />
+      <entry key="MS500" value="2.769164441810064" />
+      <entry key="S2" value="7.537362611891472" />
+      <entry key="S5" value="12.816970712005427" />
+      <entry key="S10" value="18.737936662932825" />
+      <entry key="S30" value="30.02514223941055" />
+      <entry key="S60" value="36.4225730498657" />
+      <entry key="M2" value="41.606903262421305" />
+      <entry key="M5" value="47.42732391431646" />
+      <entry key="M10" value="53.72738637974103" />
+      <entry key="M15" value="59.38814934510415" />
+      <entry key="M30" value="70.9783427553484" />
+      <entry key="H1" value="86.94100382000738" />
+      <entry key="H2" value="140.57020176610868" />
+      <entry key="H4" value="261.943625465528" />
+      <entry key="D1" value="603.1414159410941" />
+      <entry key="W1" value="718.9340232781362" />
+    </decayedShown>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-php82" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/examen2/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-php84" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-php85" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-time" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/examen2/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/examen2/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/examen2/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/examen2/vendor/league/uri-interfaces" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/examen2/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/examen2/vendor/league/uri" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/examen2/vendor/league/config" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/examen2/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/examen2/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/examen2/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/examen2/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/examen2/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/examen2/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/examen2/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/examen2/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/examen2/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/examen2/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/examen2/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/examen2/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/examen2/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/examen2/vendor/composer" />
+      <path value="$PROJECT_DIR$/examen2/vendor/laravel/pail" />
+      <path value="$PROJECT_DIR$/examen2/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/examen2/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/examen2/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/examen2/vendor/laravel/agent-detector" />
+      <path value="$PROJECT_DIR$/examen2/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/examen2/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/examen2/vendor/laravel/prompts" />
+      <path value="$PROJECT_DIR$/examen2/vendor/laravel/pao" />
+      <path value="$PROJECT_DIR$/examen2/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/examen2/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/examen2/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/examen2/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/examen2/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/examen2/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/examen2/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/examen2/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/examen2/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/examen2/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/examen2/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/examen2/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/examen2/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/examen2/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/examen2/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/examen2/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/examen2/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/examen2/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/examen2/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/examen2/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/examen2/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/examen2/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/examen2/vendor/staabm/side-effects-detector" />
+      <path value="$PROJECT_DIR$/examen2/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/examen2/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/examen2/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/examen2/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/examen2/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/examen2/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/examen2/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/examen2/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/examen2/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/examen2/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/examen2/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/polyfill-php86" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/examen2/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/examen2/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/examen2/vendor/doctrine/lexer" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3M0m3PwlbYSO1aj5EuFEwO6itns" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.laravel_idea.move_run_console_settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pochito/Desktop/Unah Pi/Programacion web/examen 2/examen2/resources/views/proveedores&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examen2/resources/views/proveedores" />
+      <recent name="$PROJECT_DIR$/examen2/resources/views/insumos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examen 2/examen2/resources/views/partials" />
+      <recent name="$PROJECT_DIR$/examen 2/examen2/database/migrations" />
+      <recent name="$PROJECT_DIR$/examen2/resources/views/errores" />
+      <recent name="$PROJECT_DIR$/examen2/resources/views" />
+      <recent name="$PROJECT_DIR$/examen2/public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/examen2/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-PS-263.7307.215" />
+        <option value="bundled-php-predefined-a98d8de5180a-ec844a175cc0-com.jetbrains.php.sharedIndexes-PS-263.7307.215" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11659f94-0e20-4ae9-97ae-4c3bab8b61d3" name="Changes" comment="" />
+      <created>1792536898264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792536898264</updated>
+      <workItem from="1792536899323" duration="615000" />
+      <workItem from="1794495661650" duration="348000" />
+      <workItem from="1794496032435" duration="7871000" />
+      <workItem from="1794524058448" duration="6941000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

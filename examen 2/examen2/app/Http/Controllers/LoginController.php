@@ -9,18 +9,17 @@ class LoginController extends Controller
 {
     public function showLogin()
     {
-        return view('auth.login');
+        return view('login.login');
     }
 
     public function login(Request $request)
     {
         $credentials = $request->validate([
-            'email' => ['required', 'email', 'ends_with:@agrovalle.hn'],
+            'email' => ['required', 'email'],
             'password' => ['required'],
         ], [
             'email.required' => 'El correo electrónico es obligatorio.',
             'email.email' => 'Ingresa un correo electrónico válido.',
-            'email.ends_with' => 'Debes usar tu correo institucional (@agrovalle.hn).',
             'password.required' => 'La contraseña es obligatoria.',
         ]);
 

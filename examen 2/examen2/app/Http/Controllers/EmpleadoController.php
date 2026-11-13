@@ -43,12 +43,12 @@ class EmpleadoController extends Controller
     {
         $empleados = Empleado::orderBy('id', 'desc')->paginate(10);
 
-        return view('empleados.index', compact('empleados'));
+        return view('empleados.indice', compact('empleados'));
     }
 
     public function create()
     {
-        return view('empleados.create');
+        return view('empleados.crear');
     }
 
     public function store(Request $request)
@@ -62,7 +62,7 @@ class EmpleadoController extends Controller
 
     public function edit(Empleado $empleado)
     {
-        return view('empleados.edit', compact('empleado'));
+        return view('empleados.editar', compact('empleado'));
     }
 
     public function update(Request $request, Empleado $empleado)

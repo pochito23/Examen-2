@@ -43,16 +43,16 @@ class ProveedorController extends Controller{
     'fecha_registro' => 'fecha de registro',
 ];
 
-    public function index()
+    public function indice()
 {
     $proveedores = Proveedor::orderBy('id', 'desc')->paginate(10);
 
-    return view('proveedores.index', compact('proveedores'));
+    return view('proveedores.indice', compact('proveedores'));
 }
 
     public function create()
 {
-    return view('proveedores.create');
+    return view('proveedores.crear');
 }
 
     public function store(Request $request)
@@ -66,7 +66,7 @@ class ProveedorController extends Controller{
 
     public function edit(Proveedor $proveedor)
 {
-    return view('proveedores.edit', compact('proveedor'));
+    return view('proveedores.editar', compact('proveedor'));
 }
 
     public function update(Request $request, Proveedor $proveedor)
